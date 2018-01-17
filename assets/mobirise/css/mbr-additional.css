@@ -1,9 +1,60 @@
+@import url(https://fonts.googleapis.com/css?family=Playfair+Display:400,700&subset=latin,cyrillic);
 #header1-0 P {
   color: #000000;
 }
 #menu-1 .navbar-toggler {
-  color: #000;
+  color: #000000;
 }
 #menu-1 .nav-link {
+  font-size: 16px;
+}
+#msg-box3-i .mbr-header .mbr-header__text {
+  text-align: center;
+}
+#msg-box3-i .mbr-header .mbr-header__subtext {
+  text-align: center;
+}
+#menu-2 .navbar-toggler {
+  color: #000000;
+}
+#menu-2 .nav-link {
+  font-size: 16px;
+}
+#msg-box2-9 H2 {
+  text-align: right;
+}
+#menu-5 .navbar-toggler {
+  color: #000000;
+}
+#menu-5 .nav-link {
+  font-size: 16px;
+}
+
+#menu-4 .navbar-toggler {
+  color: #000000;
+}
+#menu-4 .nav-link {
+  font-size: 16px;
+}
+#content5-f .mbr-section-title {
+  text-align: center;
+}
+#content5-f P {
+  font-family: 'Playfair Display', sans-serif;
+}
+
+#menu-3 .navbar-toggler {
+  color: #000000;
+}
+#menu-3 .nav-link {
+  font-size: 16px;
+}
+#slider-b P {
+  font-family: 'Playfair Display', sans-serif;
+}
+#menu-6 .navbar-toggler {
+  color: #000000;
+}
+#menu-6 .nav-link {
   font-size: 16px;
 }
