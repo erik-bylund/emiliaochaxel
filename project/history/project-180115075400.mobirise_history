@@ -1,0 +1,26 @@
+{
+  "settings": {
+    "name": "Axel & Emilia",
+    "currentPage": "index.html",
+    "theme": {
+      "name": "purity",
+      "title": "PurityM"
+    },
+    "versionFirst": "3.12.1",
+    "uniqCompNum": 0,
+    "versionPublish": "3.12.1"
+  },
+  "pages": {
+    "index.html": {
+      "settings": {
+        "main": true,
+        "title": "",
+        "meta_descr": "",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": ""
+      },
+      "components": []
+    }
+  }
+}

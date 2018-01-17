@@ -10,9 +10,14 @@
     "versionFirst": "3.12.1",
     "uniqCompNum": 2,
     "versionPublish": "3.12.1",
+    "publishFtpPath": "public_html",
+    "publishType": "local",
+    "gitHubName": "kirre-bylund",
+    "gitHubPath": "axelochemilia",
     "favicon": "@PROJECT_PATH@/assets/images/photography-clipart-wedding-photography-12-128x128.png",
     "noImageResize": "",
-    "cookiesAlert": ""
+    "cookiesAlert": "",
+    "publishPath": "file:///Users/erby/Desktop/emiliaochaxel"
   },
   "pages": {
     "index.html": {

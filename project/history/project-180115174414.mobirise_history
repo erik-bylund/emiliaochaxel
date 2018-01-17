@@ -1,6 +1,6 @@
 {
   "settings": {
-    "name": "Emilia & Axel",
+    "name": "Axel & Emilia",
     "currentPage": "index.html",
     "theme": {
       "name": "purity",
@@ -10,9 +10,7 @@
     "versionFirst": "3.12.1",
     "uniqCompNum": 2,
     "versionPublish": "3.12.1",
-    "favicon": "@PROJECT_PATH@/assets/images/photography-clipart-wedding-photography-12-128x128.png",
-    "noImageResize": "",
-    "cookiesAlert": ""
+    "publishFtpPath": "public_html"
   },
   "pages": {
     "index.html": {
@@ -54,7 +52,7 @@
             "showArrow": false
           },
           "title": "Emilia &amp; Axel",
-          "text": "14 Juli 2018<br>Mer information kommer",
+          "text": "Location - 14 Juli 2018<br>Mer information kommer",
           "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-white\" href=\"landingPage.html\" data-toolbar=\"-mbrBtnMove\">Mer information</a>"
         }
       ]
@@ -70,14 +68,6 @@
             "Theme"
           ],
           "_name": "menu",
-          "_styles": {
-            ".navbar-toggler": {
-              "color": "#000"
-            },
-            ".nav-link": {
-              "font-size": "16px"
-            }
-          },
           "_anchor": "menu-1",
           "_params": {
             "hamburgerColor": "#000",
@@ -105,7 +95,15 @@
           },
           "brand": "<a class=\"navbar-brand\" data-app-btn=\"true\" href=\"#top\" data-app-selector=\".navbar-brand\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Emilia &amp; Axel</a>",
           "buttons": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-secondary-outline\" data-app-selector=\".nav-item .btn\" href=\"https://mobirise.com\">Download</a></li>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"https://mobirise.com\">Var &amp; När</a></li><li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"https://mobirise.com\">Om Axel</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"https://mobirise.com\">Om Emilia</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"https://mobirise.com\">Önskelista\u001b</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"https://mobirise.com\">Kontakt</a></li>  <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"https://mobirise.com\">\u001b</a></li>  "
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"https://mobirise.com\">Var &amp; När</a></li><li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"https://mobirise.com\">Om Axel</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"https://mobirise.com\">Om Emilia</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"https://mobirise.com\">Önskelista\u001b</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"https://mobirise.com\">Kontakt</a></li>  <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"https://mobirise.com\">\u001b</a></li>  ",
+          "_styles": {
+            ".navbar-toggler": {
+              "color": "#000"
+            },
+            ".nav-link": {
+              "font-size": "16px"
+            }
+          }
         }
       ]
     }

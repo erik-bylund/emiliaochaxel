@@ -1,6 +1,6 @@
 {
   "settings": {
-    "name": "Emilia & Axel",
+    "name": "Axel & Emilia",
     "currentPage": "index.html",
     "theme": {
       "name": "purity",
@@ -10,9 +10,10 @@
     "versionFirst": "3.12.1",
     "uniqCompNum": 2,
     "versionPublish": "3.12.1",
-    "favicon": "@PROJECT_PATH@/assets/images/photography-clipart-wedding-photography-12-128x128.png",
-    "noImageResize": "",
-    "cookiesAlert": ""
+    "publishFtpPath": "public_html",
+    "publishType": "github",
+    "gitHubName": "kirre-bylund",
+    "gitHubPath": "axelochemilia"
   },
   "pages": {
     "index.html": {
