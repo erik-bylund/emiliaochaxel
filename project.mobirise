@@ -5,14 +5,16 @@
     "theme": {
       "name": "purity",
       "title": "PurityM",
-      "styling": {}
+      "styling": {},
+      "additionalSetColors": []
     },
     "versionFirst": "3.12.1",
     "uniqCompNum": 2,
-    "versionPublish": "3.12.1",
+    "versionPublish": "4.5.4",
     "favicon": "@PROJECT_PATH@/assets/images/photography-clipart-wedding-photography-12-128x128.png",
     "noImageResize": "",
-    "cookiesAlert": ""
+    "cookiesAlert": "",
+    "path": "@PROJECT_PATH@"
   },
   "pages": {
     "index.html": {
@@ -33,29 +35,34 @@
           "_name": "header1",
           "_anchor": "header1-0",
           "_params": {
-            "parallax": true,
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false,
+            "showArrow": false,
+            "contentAlign": "center",
             "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/mbr-2000x1114.jpg",
-            "bgColor": "#fff8e0",
+            "parallax": true,
             "bgColorRadio": false,
+            "bgColor": "#fff8e0",
+            "bgVideoRadio": false,
             "bgVideo": {
               "width": 1280,
               "height": 720,
               "url": "https://www.youtube.com/embed/V0gNurIGkkM?rel=0&amp;showinfo=0&autoplay=0&loop=0"
             },
-            "bgVideoRadio": false,
             "overlay": true,
-            "overlayOpacity": "0.4",
             "overlayColor": "#f8f8f6",
-            "contentAlign": "center",
-            "showTitle": true,
-            "showText": true,
-            "showButtons": false,
-            "showArrow": false
+            "overlayOpacity": "0.4"
           },
           "title": "Emilia &amp; Axel",
-          "text": "14 Juli 2018<br>Mer information kommer",
-          "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-white\" href=\"landingPage.html\" data-toolbar=\"-mbrBtnMove\">Mer information</a>"
+          "text": "14 Juli 2018<br>Mer information kommer snart",
+          "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-white\" href=\"landingPage.html\" data-toolbar=\"-mbrBtnMove\">Mer information</a>",
+          "_styles": {
+            "P": {
+              "color": "#f8c4bb"
+            }
+          }
         }
       ]
     },
@@ -80,14 +87,14 @@
           },
           "_anchor": "menu-1",
           "_params": {
-            "hamburgerColor": "#000",
-            "sticky": true,
-            "transparent": true,
-            "color": "#fff",
-            "collapsed": true,
             "logo": false,
             "showBrand": true,
-            "showButtons": false
+            "showButtons": false,
+            "sticky": true,
+            "collapsed": true,
+            "transparent": true,
+            "color": "#fff",
+            "hamburgerColor": "#000"
           },
           "logo": {
             "image": {
