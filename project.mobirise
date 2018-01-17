@@ -56,11 +56,11 @@
             "overlayOpacity": "0.4"
           },
           "title": "Emilia &amp; Axel",
-          "text": "14 Juli 2018<br>Mer information kommer snart",
+          "text": "14 Juli 2018<br>Mer information kommer",
           "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-white\" href=\"landingPage.html\" data-toolbar=\"-mbrBtnMove\">Mer information</a>",
           "_styles": {
             "P": {
-              "color": "#f8c4bb"
+              "color": "#000000"
             }
           }
         }
