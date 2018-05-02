@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Emilia & Axel",
-    "currentPage": "Feckeeeee.html",
+    "currentPage": "wishlist.html",
     "theme": {
       "name": "purity",
       "title": "PurityM",
@@ -95,7 +95,7 @@
             "overlayOpacity": 0.5
           },
           "title": "Önskelista",
-          "text": "Vi önskar att ni alla har möjlighet att dela denna dagen med oss. Känner ni för att ge en extra gåva så kommer önskelistan längre fram.",
+          "text": "Vi önskar att ni alla har möjlighet att dela denna dagen med oss. Känner ni för att ge en extra gåva så kan ni kolla in önskelistan här nedan:<br><br><a href=\"https://onskelista.se/w/emilia-och-axels-onskelista\" target=\"_blank\" class=\"text-danger\">https://onskelista.se/w/emilia-och-axels-onskelista</a><br><br><br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"https://mobirise.com\">Download Now</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white\" href=\"https://mobirise.com\">Learn More</a>",
           "alias": "purity/components",
           "_tags": [
