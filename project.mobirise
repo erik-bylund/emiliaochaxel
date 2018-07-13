@@ -12,7 +12,7 @@
       ]
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 59,
+    "uniqCompNum": 61,
     "versionPublish": "4.6.2",
     "favicon": "@PROJECT_PATH@/assets/images/photography-clipart-wedding-photography-12-128x128.png",
     "noImageResize": "",
@@ -1107,7 +1107,7 @@
         {
           "_params": {
             "googleMap": {
-              "address": "Kyrkbyvägen 5, 341 93 Bolmsö",
+              "address": "Kyrkbyvägen 5, Bolmsö",
               "placeId": "ChIJ0-juBZnmUEYRc9sL-dY2mP4",
               "state": "ok",
               "stateDetails": ""
@@ -1118,7 +1118,7 @@
             "Theme"
           ],
           "_name": "map1",
-          "_anchor": "map1-a"
+          "_anchor": "map1-1o"
         }
       ]
     },
