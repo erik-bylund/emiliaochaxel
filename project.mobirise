@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Emilia & Axel",
-    "currentPage": "ourstory.html",
+    "currentPage": "vigsel.html",
     "theme": {
       "name": "purity",
       "title": "PurityM",
@@ -1107,8 +1107,8 @@
         {
           "_params": {
             "googleMap": {
-              "address": "Bolmsö kyrka\nKyrkbyvägen 6, 341 93 Bolmsö",
-              "placeId": "ChIJTzRNEpnmUEYRJ_Y3qOAV1IA",
+              "address": "Bolmsö kyrka\nKyrkbyvägen 5, 341 93 Bolmsö",
+              "placeId": "ChIJ0-juBZnmUEYRc9sL-dY2mP4",
               "state": "ok",
               "stateDetails": ""
             }
